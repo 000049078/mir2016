@@ -2,7 +2,7 @@ title: Mir2016
 description: Хранилище по миру.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
